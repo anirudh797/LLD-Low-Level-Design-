@@ -3,3 +3,4 @@ plugins {
 }
 rootProject.name = "LLD_Low_Level_Design"
 include("Logger")
+include("TicTacToe")
